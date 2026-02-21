@@ -94,10 +94,6 @@ src/
 
 ---
 
-## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
----
 
-**Built with pride by [Andrew30Drew](https://github.com/Andrew30Drew)**
